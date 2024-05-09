@@ -1,0 +1,14 @@
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\bin\Debug\net8.0\desafioEmpenho.exe
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\bin\Debug\net8.0\desafioEmpenho.deps.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\bin\Debug\net8.0\desafioEmpenho.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\bin\Debug\net8.0\desafioEmpenho.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\bin\Debug\net8.0\desafioEmpenho.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\refint\desafioEmpenho.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\desafioEmpenho.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Empenho\desafio\desafioEmpenho\obj\Debug\net8.0\ref\desafioEmpenho.dll
